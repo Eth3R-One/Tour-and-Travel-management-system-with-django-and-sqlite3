@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.codeActionsOnSave": {
+
+    },
+    "workbench.commandPalette.experimental.suggestCommands": true
+}
